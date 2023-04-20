@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Save Turk",
+    "image": "../projectImages/drapeau-turquie(2).jpg",
+    "technologies": "HTML | CSS | Bootstrap",
+    "github": "https://tecnicos.github.io/save-turk-bs/",
+    "deployed": "https://tecnicos.github.io/save-turk-bs/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Bootcamp",
+    "image": "./projectImages/weather.png",
+    "technologies": "HTML | CSS | Bootstrap",
+    "github": "https://tecnicos.github.io/bootcamp/",
+    "deployed": "https://tecnicos.github.io/bootcamp/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Green Space",
+    "image": "./projectImages/team.png",
+    "technologies": "HTML | CSS | Bootstrap",
+    "github": "https://tecnicos.github.io/green/",
+    "deployed": "https://tecnicos.github.io/green/",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  }
+]
